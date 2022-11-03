@@ -1,3 +1,5 @@
+__author__ = 'Afonso Victor Lemos da Silva'
+
 from general import is_prime
 from general import is_palindrome
 from general import reversed_number
