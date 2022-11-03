@@ -1,4 +1,4 @@
-__author__ = 'Afonso Victor Lemos da Silva'
+__author__ = 'Afonso Victor Lemos da Silva - 2022100446'
 
 from general import is_prime
 from general import is_palindrome
